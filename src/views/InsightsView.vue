@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">System guidance</span><h2>Every connectivity rollout needs transparent permits and coordinated civil works</h2><p>Operators, municipalities, utilities and investors can coordinate permits, shared infrastructure and rollout readiness.</p></section></template>
